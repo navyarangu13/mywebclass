@@ -27,6 +27,7 @@ theirs. The end result is that each partner should have the experience of the te
 
 ### 3. Both Partners ACCEPT THE Assignment GITHUB to create their own GitHub repo, so each person has the chance to do all the steps and practice makes perfect...
 
+
 1. Partner 1: [sathvika](https://github.com/sathvikareddyg) <-change to you or your partner
 2. Partner 2: [bhogeswari](https://github.com/bs227) <-change to you or your partner
 3. Partner 3: Optional

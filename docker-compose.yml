@@ -12,7 +12,7 @@ services:
       - 'com.centurylinklabs.watchtower.enable=true'
     development_branch:
 
-      container_name: development_branch
+      container_name: development
       pull_policy: always
       restart: always
       ports:
