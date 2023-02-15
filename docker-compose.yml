@@ -10,8 +10,8 @@ services:
       - "80:80"
       labels:
       - 'com.centurylinklabs.watchtower.enable=true'
-    development_branch:
-
+    development:
+      build: .
       container_name: development
       pull_policy: always
       restart: always
